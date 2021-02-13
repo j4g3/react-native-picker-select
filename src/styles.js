@@ -2,7 +2,6 @@ import { StyleSheet } from 'react-native';
 
 export const defaultStyles = StyleSheet.create({
     viewContainer: {
-        alignSelf: 'stretch',
     },
     iconContainer: {
         position: 'absolute',
